@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio_Concurso_Tartas</string>
+    <string name="titulo">Come&amp;Calla</string>
+    <string name="inscripcion">Inscripción</string>
+    <string name="pregunta">¿A participado antes en otro concurso?</string>
+    <string name="fin">Finalizar</string>
+</resources>
